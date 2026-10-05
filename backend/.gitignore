@@ -1,1 +1,91 @@
-// backend/.gitignore - auto created
+# ============================================
+# Node.js & Dependencies
+# ============================================
+node_modules/
+npm-debug.log*
+npm-debug.log*.json
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+yarn.lock
+
+# ============================================
+# Environment Variables (NEVER COMMIT!)
+# ============================================
+.env
+.env.local
+.env.*.local
+.env.production
+
+# ============================================
+# IDE & Editor Files
+# ============================================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+*.sublime-project
+*.sublime-workspace
+.netrwhist
+
+# ============================================
+# Logs
+# ============================================
+logs/
+*.log
+lerna-debug.log*
+
+# ============================================
+# Runtime Data
+# ============================================
+pids/
+*.pid
+*.seed
+*.pid.lock
+tmp/
+temp/
+
+# ============================================
+# Build & Distribution
+# ============================================
+build/
+dist/
+coverage/
+.nyc_output/
+
+# ============================================
+# Database
+# ============================================
+*.db
+*.sqlite
+*.sqlite3
+database.json
+
+# ============================================
+# OS Specific
+# ============================================
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+
+# ============================================
+# Testing
+# ============================================
+.mocha
+.test-results/
+junit.xml
+
+# ============================================
+# Optional: Generated Files
+# ============================================
+uploads/
+temp/
+backups/
+*.bak
