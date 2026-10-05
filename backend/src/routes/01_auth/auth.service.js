@@ -1,3 +1,4 @@
+import FEATURES from '../config/features.js';
 // ============================================
 // 🔐 AUTHENTICATION SERVICE - Business Logic
 // ============================================
