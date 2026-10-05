@@ -1,0 +1,1 @@
+// docs/PHASE1_AUTH_IMPLEMENTATION.md - auto created

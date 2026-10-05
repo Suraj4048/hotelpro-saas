@@ -1,0 +1,1 @@
+// docs/AUTH_FLOW_ARCHITECTURE.md - auto created

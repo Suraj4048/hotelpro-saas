@@ -1,0 +1,1 @@
+// backend/src/services/communication.js - auto created
